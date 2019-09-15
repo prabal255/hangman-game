@@ -53,3 +53,6 @@ if congo ==0:
 
 else:
     print("oops you loose")
+    print("the secret word is ")
+    print(secret)
+
